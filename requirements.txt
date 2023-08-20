@@ -1,3 +1,4 @@
 vowpalwabbit
 matplotlib
 pandas
+notebook
