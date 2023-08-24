@@ -1,4 +1,4 @@
-vowpalwabbit
 matplotlib
 pandas
 notebook
+vowpal-wabbit-next
