@@ -3,3 +3,4 @@ pandas
 notebook
 vowpal-wabbit-next
 ipykernel
+sklearn
