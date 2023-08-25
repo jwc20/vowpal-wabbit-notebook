@@ -1,0 +1,2 @@
+| price:.46 sqft:.4 age:.10 1924
+| price:.100 sqft:.2 age:.24 2010
