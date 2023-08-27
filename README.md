@@ -16,3 +16,10 @@
 - [Holy $#!t: Are popular toxicity models simply profanity detectors?](https://www.surgehq.ai/blog/are-popular-toxicity-models-simply-profanity-detectors)
 - [Case Study: Content Moderation for a Leading Social Media Company](https://www.surgehq.ai/blog/case-study-content-moderation-for-a-leading-social-media-company)
 - [New Data Labeling Tools for Training Chatbots and Conversational Assistants](https://www.surgehq.ai/blog/new-chatbot-and-conversation-labeling-tools)
+
+---
+
+- [The Impact of Toxic Language on the Health of Reddit Communities](https://link.springer.com/chapter/10.1007/978-3-319-57351-9_6)
+- [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://research.google/pubs/pub49786/)
+
+- [Capturing Covertly Toxic Speech via Crowdsourcing](https://aclanthology.org/2021.hcinlp-1.3/)
